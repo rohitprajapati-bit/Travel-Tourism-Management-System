@@ -1,7 +1,7 @@
 # Travel and tourism management 
 A robust platform for managing travel and tourism services, featuring booking, payment processing, and reporting tools. Ideal for travel agencies seeking efficient solutions.
 
-# Web Screenshot
+# Screenshot
 
 ![1](https://github.com/user-attachments/assets/f694747e-ef24-4aa0-a0c8-40ede8414604)
 ![2](https://github.com/user-attachments/assets/99b0112e-bca5-4823-8bbc-41e260ec52e7)
